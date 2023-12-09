@@ -3,11 +3,7 @@
 <p align='left'> Location: Albany, OR and willing to travel</p>
 <p align='left'> Primary Tech Skills: Data analysis, data visualization, business analytics, Tableau, Power BI, and SQL</p>
 <p align='left'> Primary Soft Skills: Problem-Solving, communication, collaboration, and adaptability</p>
-<p align='left'> 🔭 I’m currently working on a BI Analyst Certification from TripleTen.</p>
-<p align='left'> 🌱 I’m currently learning Power BI.</p>
-<p align='left'> 👯 I’m looking to participate in outsourcing projects.</p>
-<p align='left'> 🤔 I’m looking for help with learning python.</p>
-<p align='left'> ⚡ Fun fact: I'm addicted to Learning!</p>
+<p align='left'> 🔭 I’m currently working on a BI Analyst Certification from TripleTen. 🌱 I’m currently learning Power BI. 👯 I’m looking to participate in outsourcing projects. 🤔 I’m looking for help with learning python.⚡ Fun fact: I'm addicted to Learning!</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-tifcpic@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tifcpic@gmail.com)](mailto:tifcpic@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/tiffanycbergett-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/tiffanycbergett/)](https://www.linkedin.com/in/www.linkedin.com/in/tiffanycbergett/)

@@ -6,7 +6,7 @@
 <p align='left'> 🔭 I’m currently working on a BI Analyst Certification from TripleTen. 🌱 I’m currently learning Power BI. 👯 I’m looking to participate in outsourcing projects. 🤔 I’m looking for help with learning python.⚡ Fun fact: I'm addicted to Learning!</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-tifcpic@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tifcpic@gmail.com)](mailto:tifcpic@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/tiffanycbergett-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/tiffanycbergett/)](https://www.linkedin.com/in/tiffanycbergett/)
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/tiffanycbergett-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiffanycbergett/)](https://www.linkedin.com/in/www.linkedin.com/in/tiffanycbergett/)
 [![Github Badge](https://img.shields.io/badge/-TiffanyBergett-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TiffanyBergett/)](https://www.github.com/TiffanyBergett/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 
 

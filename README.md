@@ -18,4 +18,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=TiffanyBergett alt=TiffanyBergett /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Tiffany-Bergett&show_icons=true&include_all_commits=true)](https://github.com/Tiffany-Bergett/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany-Bergett&layout=compact)](https://github.com/Tiffany-Bergett/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany-Bergett&layout=compact)](https://github.com/TiffanyBergett/github-readme-stats)

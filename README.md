@@ -2,7 +2,7 @@
 <h3 align="left">Pronouns: She/They </h3>
 <h3 align="left">Location: Albany, OR and willing to travel</h3>
 
-- 🔭 I’m currently working on **My Final Project with TripleTen**
+- 🔭 I’m currently working on **My Final Project with TripleTen and Externship with DataSpeak and CrewTracker**
 - 🌱 I’m currently learning **Business Intelligence Analysis.**
 - 👯 I’m looking to collaborate on **outsourcing projects.**
 - 🤝 I’m looking for help with **breaking into tech.**

@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 
 - 💬 Ask me about **TripleTen.**
 - 📫 How to reach me **tifcpic@gmail.com**
-- 📄 Get to know about my experiences <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>here</u>.</a>
+- 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>here</u>.</a>
 - ⚡ Fun fact: **I'm addicted to learning!**
 
 <h3 align="left">Connect with me:

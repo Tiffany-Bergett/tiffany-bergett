@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tiffany Bergett</h1>
-<h3 align="left">Pronouns: She/They </h3>
-<h3 align="left">Location: Albany, OR and willing to travel</h3>
+
+Pronouns: She/They
+<h3 align="left">Summary:</h3>
+I'm from Albany OR, USA. I am dedicated to lifelong learning and being an advocate for all humans and products that help make life better for us :)
 
 - 🔭 I’m currently working on **my TripleTen Externship with DataSpeak and CrewTracker**
 - 🌱 I’m currently learning **Business Intelligence Analysis.**

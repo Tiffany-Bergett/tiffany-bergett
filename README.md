@@ -1,12 +1,8 @@
-<div style="text-align: center;">
-![alt text](https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png "Hey, I'm Tiffany. BI Analyst.")
-</div>
-
 <img 
-    style="text-align: center; 
+    style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 60%;"
+           width: 100%;"
     src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png" 
     alt="Hey, I'm Tiffany">
 </img>

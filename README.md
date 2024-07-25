@@ -10,7 +10,7 @@
 Pronouns: She/They
 # 💫 About Me:
 
-I'm from Albany OR, USA. I am dedicated to lifelong learning and being an advocate for all humans and products that help make life better for us :)
+I'm from Albany OR, USA. I am dedicated to being an advocate for all humans and products that help make life better for us :)
 
 - 🔭 I’m currently working on **teaching BI Analyst skills with TripleTen.**
 - 🌱 I’m currently learning **Python and Project Management skills.**

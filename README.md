@@ -1,4 +1,4 @@
-![Header](,/[https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png])
+![Header](https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png)
 Pronouns: She/They
 <h3 align="left">Summary:</h3>
 I'm from Albany OR, USA. I am dedicated to lifelong learning and being an advocate for all humans and products that help make life better for us :)

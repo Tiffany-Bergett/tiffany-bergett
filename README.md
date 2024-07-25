@@ -22,18 +22,28 @@ I'm from Albany OR, USA. I am dedicated to being an advocate for all humans and 
 - 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>HERE</u>.</a>
 - ⚡ Fun fact: **I'm addicted to learning!**
 
-<h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/tiffanycbergett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiffanycbergett" height="30" width="40" /></a>
-</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiffanycbergett)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/eAVCR7bB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pippieplease) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | Tableau | Power BI | SQL</p>
+## 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
 
-<h3 align="left"> Skills: </h3>
-<p align='left'> Data analysis, data visualization, business analytics, problem-solving, communication, collaboration, and adaptability </p>
+| Tableau |
 
-<h3 align="left"> Personal Summary: </h3>
-<p align="left"> Passionate about transforming data into actionable insights! As a driven individual with a diverse background in education, security, healthcare, and even food service, I've honed my communication, problem-solving, and client interaction skills. Now, I'm eager to transition my expertise to a Business Intelligence Analyst role where I can leverage my data analysis abilities to drive informed decision-making.
+## Skills:
+Data analysis, data visualization, business analytics, problem-solving, communication, collaboration, adaptability, teaching, and leadership.
 
-Throughout my career, I've thrived in fast-paced environments, consistently exceeding expectations in customer service, administrative tasks, and issue resolution. This experience, coupled with my strong academic background, has equipped me with the analytical mindset and technical aptitude needed to excel in this field. I'm a quick learner, highly motivated, and possess a collaborative spirit. When I'm not exploring data, I enjoy crafting and video games.</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tiffany-bergett&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tiffany-bergett&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tiffany-bergett&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffany-bergett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tiffany-bergett&icon=1&color=1)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

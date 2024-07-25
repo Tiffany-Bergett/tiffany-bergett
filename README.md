@@ -8,17 +8,18 @@
 </img>
 
 Pronouns: She/They
-<h3 align="left">Summary:</h3>
+# 💫 About Me:
+
 I'm from Albany OR, USA. I am dedicated to lifelong learning and being an advocate for all humans and products that help make life better for us :)
 
-- 🔭 I’m currently working on **my TripleTen Externship with DataSpeak and CrewTracker**
-- 🌱 I’m currently learning **Business Intelligence Analysis.**
+- 🔭 I’m currently working on **teaching BI Analyst skills with TripleTen.**
+- 🌱 I’m currently learning **Python and Project Management skills.**
 - 👯 I’m looking to collaborate on **outsourcing projects.**
-- 🤝 I’m looking for help with **breaking into tech.**
+- 🤝 I’m looking for help with **my job search.**
 - 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 
 - 💬 Ask me about **TripleTen.**
 - 📫 How to reach me **tifcpic@gmail.com**
-- 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>here</u>.</a>
+- 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>HERE</u>.</a>
 - ⚡ Fun fact: **I'm addicted to learning!**
 
 <h3 align="left">Connect with me:

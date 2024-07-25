@@ -18,7 +18,7 @@ I'm from Albany OR, USA. I am dedicated to being an advocate for all humans and 
 - 🤝 I’m looking for help with **my job search.**
 - 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 
 - 💬 Ask me about **TripleTen.**
-- 📫 How to reach me **tifcpic@gmail.com**
+- 📫 How to reach me **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tifcpic@gmail.com)**
 - 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/14roiaExn3BnWvwgDC67wgTCAyJsd6_l0oQvsh9w52dE/edit?usp=sharing ' target=_blank><u>HERE</u>.</a>
 - ⚡ Fun fact: **I'm addicted to learning!**
 
@@ -30,7 +30,7 @@ I'm from Albany OR, USA. I am dedicated to being an advocate for all humans and 
 
 | Tableau |
 
-## Skills:
+## ⚡ Skills:
 Data analysis, data visualization, business analytics, problem-solving, communication, collaboration, adaptability, teaching, and leadership.
 
 ### ✍️ Random Dev Quote

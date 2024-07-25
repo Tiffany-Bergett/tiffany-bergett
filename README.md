@@ -1,4 +1,11 @@
-<h1 align="center"> [Header](https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png) </h1>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png" 
+    alt="Hey, I'm Tiffany">
+</img>
 Pronouns: She/They
 <h3 align="left">Summary:</h3>
 I'm from Albany OR, USA. I am dedicated to lifelong learning and being an advocate for all humans and products that help make life better for us :)

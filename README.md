@@ -2,7 +2,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 100%;"
+           width: 90%;"
     src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-words.png" 
     alt="Hey, I'm Tiffany">
 </img>

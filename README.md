@@ -2,8 +2,8 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 75%;"
-    src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-image.png" 
+           width: 100%;"
+    src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/github-header-words.png" 
     alt="Hey, I'm Tiffany">
 </img>
 

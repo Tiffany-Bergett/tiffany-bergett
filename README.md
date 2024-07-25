@@ -7,7 +7,6 @@
     alt="Hey, I'm Tiffany">
 </img>
 
-Pronouns: She/They
 # 💫 About Me:
 
 I'm from Albany OR, USA. I am dedicated to being an advocate for all humans and products that help make life better for us :)

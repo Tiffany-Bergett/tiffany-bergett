@@ -9,16 +9,16 @@
 
 # 💫 About Me:
 
-⭐ I'm from Albany OR, **USA**. I am dedicated to being an advocate for all humans and products that help make life better for us :)
-⭐ I earned a **Bachelor** of Arts in General Psychology despite diversity. After, I took additional courses in science for the love of learning. Additionally, I hold a **Business Intelligence Certificate** and a TEFL (Teaching English as a Foreign Language) Certificate.
-⭐ I've worked many **customer service roles and roles in healthcare, education, and security** while supporting my educational goals and supporting family.
+⭐ I'm from Albany OR, **USA**. I am dedicated to being an advocate for all humans and products that help make life better for us :)<br>
+⭐ I earned a **Bachelor** of Arts in General Psychology despite diversity. After that, I took additional courses in science because I love learning. Additionally, I hold a **Business Intelligence Certificate** and a TEFL (Teaching English as a Foreign Language) Certificate.<br>
+⭐ I've worked many **customer service roles and roles in healthcare, education, and security** while supporting my educational goals and supporting my family.<br>
 
 - 🔭 I’m currently working on **teaching BI Analyst skills with TripleTen.**
 - 💬 Ask me about **TripleTen.**
 - 🌱 I’m currently learning **Python and Project Management skills.**
 - 👯 I’m looking to collaborate on **BI projects.**
 - 🤝 I’m looking for help with my **job search.**
-- 📫 Contact me via eMail or LinkedIn!
+- 📫 Contact me via email or LinkedIn!
 - ⚡ Fun fact: I'm addicted to learning!
 
 - 👨‍💻 All of my projects are available here:  [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 

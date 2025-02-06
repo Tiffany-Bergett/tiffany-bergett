@@ -17,7 +17,8 @@
 **Data analysis, visualization, story-telling, business analytics, problem-solving, communication, collaboration, adaptability, teaching, and leadership.**
 
 ## 👨‍💻 My projects:
-All of my projects are available on GitHub! Projects completed during my BI Analyst education and my Alumni experience can be found [HERE](https://github.com/Tiffany-Bergett/Data_projects_TripleTen)  
+All of my projects are available on GitHub!  
+Projects completed during my BI Analyst education and my Alumni experience can be found [HERE](https://github.com/Tiffany-Bergett/Data_projects_TripleTen)  
 Pet projects unaffiliated with TripleTen can be found [HERE](https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects).  
 
 📄 **Get to know me, my experiences, and my projects via my professional blog and landing page found [HERE](https://github.com/Tiffany-Bergett/Tiffany-Bergett.github.io).**

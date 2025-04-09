@@ -19,7 +19,7 @@
 ## 👨‍💻 My projects:
 All of my projects are available on GitHub!  
 Projects completed during my BI Analyst education and Alumni experience can be found [HERE](https://github.com/Tiffany-Bergett/BI_Analytic_Projects)  
-Pet projects unaffiliated with TripleTen can be found [HERE](https://github.com/Tiffany-Bergett/Data_Projects_Personal_Projects).  
+Pet projects unaffiliated with TripleTen can be found [HERE](https://github.com/Tiffany-Bergett/Data_Analytic_Projects).  
 
 📄 **Get to know me, my experiences, and my projects via my professional blog and landing page found [HERE](https://github.com/Tiffany-Bergett/Tiffany-Bergett.github.io).**
 

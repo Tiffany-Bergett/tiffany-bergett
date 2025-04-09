@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-⭐ I'm from Albany OR, **USA**. I am dedicated to being an advocate for all humans and products that help make life better for us :)  
+⭐ I'm from Albany, OR, **USA**. I am dedicated to being an advocate for all humans and products that help make life better for us :)  
 ⭐ I earned a **Bachelor** of Arts in General Psychology despite diversity. After that, I took additional courses in science because I love learning. Additionally, I hold a **Business Intelligence Certificate** and a TEFL (Teaching English as a Foreign Language) Certificate.  
 ⭐ I've worked many **customer service roles and roles in healthcare, education, and security** while supporting my educational goals and supporting my family.  
 
@@ -18,8 +18,10 @@
 
 ## 👨‍💻 My projects:
 All of my projects are available on GitHub!  
-Projects completed during my BI Analyst education and Alumni experience can be found [HERE](https://github.com/Tiffany-Bergett/BI_Analytic_Projects)  
-Pet projects unaffiliated with TripleTen can be found [HERE](https://github.com/Tiffany-Bergett/Data_Analytic_Projects).  
+- Projects completed during my BI Analyst education and Alumni experience can be found [HERE](https://github.com/Tiffany-Bergett/BI_Analytic_Projects).  
+Beyond my TripleTen training, I've actively expanded my BI skill set:  
+- Pet projects, Analyst Builder exercises, and my recent externship experiences can be viewed [HERE](https://github.com/Tiffany-Bergett/Data_Analytic_Projects).  
+- Projects completed during my Data Science education can be found [HERE](https://github.com/Tiffany-Bergett/Data_Science_Projects).
 
 📄 **Get to know me, my experiences, and my projects via my professional blog and landing page found [HERE](https://github.com/Tiffany-Bergett/Tiffany-Bergett.github.io).**
 
